@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Luifergram</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Dont have an account?</string>
+    <string name="here_to_create_account">register here!</string>
+    <string name="name_input">First name</string>
+    <string name="last_name_input">Last name</string>
+    <string name="username_input">Username</string>
+    <string name="password_input">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="email_input">Email</string>
+    <string name="confirm_email_input">Confirm email</string>
+    <string name="text_register_button">Join</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="toolbar_title_create_account">Register</string>
+    <string name="card_username">Luis Fernando</string>
+    <string name="test_text">Test text test</string>
+    <string name="title_activity_container">ContainerActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a placerat tortor. Nam molestie eleifend eros sit amet imperdiet. Proin vitae nibh at nibh vulputate ullamcorper efficitur sed nisi. Donec quis metus in quam dignissim gravida. Vivamus iaculis lorem augue, nec blandit nibh sodales quis. Donec id augue est. Donec faucibus odio ac ex suscipit iaculis nec id metus. Vivamus egestas ex eget sodales viverra. Fusce vel massa et lectus accumsan ullamcorper et non est. Proin vitae est id diam varius interdum at eu ligula. Pellentesque eleifend maximus commodo. In mollis ex quis velit suscipit, vitae maximus ligula tempus. Integer non enim sit amet ligula aliquet semper. Quisque ut commodo lectus. Cras fermentum ligula non commodo ultricies.
+
+Ut consectetur lectus dolor. Duis in elit nunc. Duis at ex tempus, malesuada orci a, scelerisque est. Curabitur vestibulum id urna et tincidunt. Donec non laoreet elit, vulputate pharetra libero. Etiam faucibus aliquam nunc, maximus hendrerit mauris lacinia a. Sed suscipit, turpis eget finibus auctor, dui mi varius risus, vitae elementum nisl leo a libero. </string>
+    <string name="transitionName_picture">transitionNamePicture</string>
+</resources>

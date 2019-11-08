@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="like_margintop">10dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="bottombar_height">60dp</dimen>
+    <dimen name="card_username_texSize">25sp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="card_likes_texSize">15sp</dimen>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="card_username_profile_texSize">30sp</dimen>
+    <dimen name="profile_circleimageView_size">160dp</dimen>
+    <dimen name="margin_profile_circleimageView">30dp</dimen>
+    <dimen name="profile_circleview_elevation">10dp</dimen>
+    <dimen name="limitY_circleImage">-250dp</dimen>
+    <dimen name="limitX_circleImage">0dp</dimen>
+    <dimen name="limit_width_circleImage">20dp</dimen>
+    <dimen name="username_circleImage_textSize">18sp</dimen>
+    <dimen name="username_circleImage_marginleft">72dp</dimen>
+    <dimen name="username_circleImage_margintop">-100dp</dimen>
+    <dimen name="limitY_username_circleImage">-250dp</dimen>
+    <dimen name="targetY_username_circleImage">-5dp</dimen>
+</resources>
